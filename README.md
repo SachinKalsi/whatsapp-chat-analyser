@@ -21,3 +21,5 @@ You can find answers to questions like "Who is most chatty user?, Whats the most
 
 1. Yet to do chat analysis for one-to-one chat
 2. Need to add more analytics & EDA
+
+*P.S: For privacy concerns, I have renamed some of the contact numbers/user names to user1, user2 ..etc*
