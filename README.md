@@ -13,7 +13,7 @@ You can find answers to questions like "Who is most chatty user?, Whats the most
 
 4. The file you downloaded will be in `.zip` format, so extract it
 
-5. Get the chat txt file (name of the chat text file will be like `WhatsApp Chat with <YOUR_GROUP_NAME>.txt`)
+5. Get the chat txt file (name of the chat text file will be like `WhatsApp Chat with <YOUR_GROUP_NAME>.txt` in android and \_chat.txt in iPhone). Please refer [this](https://faq.whatsapp.com/en/android/23756533/) link for more info
 
 6. Give this chat text file to the program (`whatsapp_chat_analysis.ipynb`) as an input
 
