@@ -17,6 +17,14 @@ You can find answers to questions like "Who is most chatty user?, Whats the most
 
 6. Give this chat text file to the program (`whatsapp_chat_analysis.ipynb`) as an input
 
+## Sample Results 
+
+![Word Cloud](https://github.com/SachinKalsi/whatsapp-chat-analyser/blob/master/images/wordcloud.png)
+
+![Number of users & their message frequency](https://github.com/SachinKalsi/whatsapp-chat-analyser/blob/master/images/user_messages.png)
+
+
+
 # To-Do
 
 1. Yet to do chat analysis for one-to-one chat
